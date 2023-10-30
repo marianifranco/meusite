@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="style.css">
+        <title>moda Fashion Week</title>
+    </head>
+ </body>
+      <header>
+        <ul ID ="menu">
+            <li><a href = "home.html"></a></li>
+            <li><a href = "paris.html></a><li>
+            <li><a href = "Fashionweek.html></a><li>
+            <li><a href = "frança.html></a><li>
+
+        </ul>
+      </header>
+      <H1> Paris Fashion Week</h1>
+    <1mg ID="imagem1" src="imagem1.html">
+        <P>Fashion Week</P>
+ </body>
+    </html>
